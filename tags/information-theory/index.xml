@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>information-theory on </title>
+    <link>/tags/information-theory/</link>
+    <description>Recent content in information-theory on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/information-theory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stochastic optimization with smoothing</title>
+      <link>/project/optimization-qgaussian/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/project/optimization-qgaussian/</guid>
+      <description>Stochastic optimization is the mathematical tool for solving reinforcement learning problems, where the goal is to optimize the long-run performance of a dynamical system. We proposed new methods for stochastic optimization that estimate the gradient and Hessian of the cost function through a smoothing based on some generalised Gaussian distributions. The works provide convergence analysis and numerical performance of our algorithms.</description>
+    </item>
+    
+  </channel>
+</rss>
