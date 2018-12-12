@@ -1,163 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Debarghya Ghoshdastidar on Debarghya Ghoshdastidar</title>
-    <link>/</link>
-    <description>Recent content in Debarghya Ghoshdastidar on Debarghya Ghoshdastidar</description>
+    <title>Posts on Debarghya Ghoshdastidar</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Debarghya Ghoshdastidar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-    <item>
-      <title>TML Network Analysis Team</title>
-      <link>/group/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/group/hero/</guid>
-      <description>&lt;p&gt;Theory of Machine Learning (TML) Group &lt;br&gt;
-Department of Computer Science &lt;br&gt;
-University of Tübingen&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Research Focus</title>
-      <link>/group/focus/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/group/focus/</guid>
-      <description>&lt;p&gt;The Network Analysis Team primarily works on the theory and applications of machine learning with networks.
-We develop network analysis tools for various applied problems ranging from computational neuroscience to production engineering.
-We also study the statistical theory of machine learning with networks.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Members</title>
-      <link>/group/members/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/group/members/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../#about&#34;&gt;Debarghya Ghoshdastidar&lt;/a&gt; (Postdoc; Team Leader)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.tml.cs.uni-tuebingen.de/team/leena_chennuru/index.php&#34; target=&#34;_blank&#34;&gt;Leena Chennuru Vankadara&lt;/a&gt; (PhD Student)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/group/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/group/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Practical methods for graph two-sample testing</title>
-      <link>/publication/ghoshdastidar-nips-2018/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ghoshdastidar-nips-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clustering Large Evolving Networks</title>
-      <link>/project/network-clustering/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/network-clustering/</guid>
-      <description>&lt;p&gt;One of the most significant problems in network sciences is clustering or community detection. It is a principle tool for exploratory data analysis and is also crucial for applications such as image processing, server load balancing, and several other areas. Theoretical guarantees on network clustering show that many popular methods are statistically accurate for very large networks. However, one often overlooks the fact that such methods are quite inefficient for large scale applications, and hence, practically efficient clustering algorithms deviate significantly from the theoretically studied methods. The purpose of this project is to blend theory with practice by developing efficient network clustering algorithms that have provable theoretical guarantees, and are also efficient for large scale applications.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Two-sample hypothesis testing for inhomogeneous random graphs</title>
-      <link>/publication/ghoshdastidar-arxiv-00833/</link>
-      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ghoshdastidar-arxiv-00833/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two-sample tests for large random graphs using network statistics</title>
-      <link>/publication/ghoshdastidar-colt-2017/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ghoshdastidar-colt-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uniform hypergraph partitioning: Provable tensor methods and sampling techniques</title>
-      <link>/publication/ghoshdastidar-jmlr-2017/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ghoshdastidar-jmlr-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparison based nearest neighbor search</title>
-      <link>/publication/haghiri-aistats-2017/</link>
-      <pubDate>Fri, 21 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/haghiri-aistats-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Consistency of Spectral Hypergraph Partitioning under Planted Partition Model</title>
-      <link>/publication/ghoshdastidar-aos-2017/</link>
-      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ghoshdastidar-aos-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixture modelling with compact support distributions for unsupervised learning</title>
-      <link>/publication/dukkipati-ijcnn-2016/</link>
-      <pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/dukkipati-ijcnn-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hypothesis Testing for Networks</title>
-      <link>/project/network-twosampletesting/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/network-twosampletesting/</guid>
-      <description>&lt;p&gt;We study the problem of testing whether two large graphs are generated from the same model. This problem lies behind the question of whether brain network of Alzheimer patients differ from those of healthy individuals. On the applied end, we proposed new two-sample tests to compare graphs / graph populations. Our theory resolved a fundamental question – &lt;em&gt;when can we test large networks without access to multiple independent samples?&lt;/em&gt; We used statistical minimax theory to show that solvability of a testing problem with limited data depends crucially on the hypotheses under consideration. We found that some classical approaches to testing can fail in this setup, and hence, one should be careful before relying on the test conclusion in this setup.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Codes are available &lt;a href=&#34;https://github.com/gdebarghya/Network-TwoSampleTesting&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning with Jensen-Tsallis kernels</title>
-      <link>/publication/ghoshdastidar-tnnls-2016/</link>
-      <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ghoshdastidar-tnnls-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coloring random non-uniform bipartite hypergraphs</title>
-      <link>/publication/ghoshdastidar-arxiv-00763/</link>
-      <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ghoshdastidar-arxiv-00763/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
