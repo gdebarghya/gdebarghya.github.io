@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Group on Debarghya Ghoshdastidar</title>
+    <link>/group/</link>
+    <description>Recent content in Research Group on Debarghya Ghoshdastidar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/group/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TML Network Analysis Team</title>
+      <link>/group/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/group/hero/</guid>
+      <description>Theory of Machine Learning (TML) Group Department of Computer Science University of Tübingen</description>
+    </item>
+    
+    <item>
+      <title>Research Focus</title>
+      <link>/group/focus/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/group/focus/</guid>
+      <description>The Network Analysis Team primarily works on the theory and applications of machine learning with networks. We develop network analysis tools for various applied problems ranging from computational neuroscience to production engineering. We also study the statistical theory of machine learning with networks.</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>/group/members/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/group/members/</guid>
+      <description> Debarghya Ghoshdastidar (Postdoc; Team Leader) Leena Chennuru Vankadara (PhD Student)  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/group/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/group/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
