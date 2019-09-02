@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Two-sample hypothesis testing for inhomogeneous random graphs</title>
+      <link>/publication/ghoshdastidar-aos-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ghoshdastidar-aos-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Uniform hypergraph partitioning: Provable tensor methods and sampling techniques</title>

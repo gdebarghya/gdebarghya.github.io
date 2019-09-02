@@ -57,9 +57,18 @@ We also study the statistical theory of machine learning with networks.&lt;/p&gt
     </item>
     
     <item>
+      <title>Two-sample hypothesis testing for inhomogeneous random graphs</title>
+      <link>/publication/ghoshdastidar-aos-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ghoshdastidar-aos-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Practical methods for graph two-sample testing</title>
       <link>/publication/ghoshdastidar-nips-2018/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/ghoshdastidar-nips-2018/</guid>
       <description></description>
@@ -73,15 +82,6 @@ We also study the statistical theory of machine learning with networks.&lt;/p&gt
       <guid>/project/network-clustering/</guid>
       <description>&lt;p&gt;One of the most significant problems in network sciences is clustering or community detection. It is a principle tool for exploratory data analysis and is also crucial for applications such as image processing, server load balancing, and several other areas. Theoretical guarantees on network clustering show that many popular methods are statistically accurate for very large networks. However, one often overlooks the fact that such methods are quite inefficient for large scale applications, and hence, practically efficient clustering algorithms deviate significantly from the theoretically studied methods. The purpose of this project is to blend theory with practice by developing efficient network clustering algorithms that have provable theoretical guarantees, and are also efficient for large scale applications.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Two-sample hypothesis testing for inhomogeneous random graphs</title>
-      <link>/publication/ghoshdastidar-arxiv-00833/</link>
-      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ghoshdastidar-arxiv-00833/</guid>
-      <description></description>
     </item>
     
     <item>
