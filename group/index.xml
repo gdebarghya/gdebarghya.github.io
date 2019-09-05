@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research Group on Debarghya Ghoshdastidar</title>
+    <title>Group on Debarghya Ghoshdastidar</title>
     <link>/group/</link>
-    <description>Recent content in Research Group on Debarghya Ghoshdastidar</description>
+    <description>Recent content in Group on Debarghya Ghoshdastidar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,21 +13,22 @@
     
     
     <item>
-      <title>TML Network Analysis Team</title>
+      <title>Theoretical Foundations of AI</title>
       <link>/group/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>/group/hero/</guid>
-      <description>Theory of Machine Learning (TML) Group Department of Computer Science University of Tübingen</description>
+      <description>TUM Department of Informatics Technical University of Munich</description>
     </item>
     
     <item>
-      <title>Research Focus</title>
+      <title>Focus</title>
       <link>/group/focus/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/group/focus/</guid>
-      <description>The Network Analysis Team primarily works on the theory and applications of machine learning with networks. We develop network analysis tools for various applied problems ranging from computational neuroscience to production engineering. We also study the statistical theory of machine learning with networks.</description>
+      <description>The research group works on the statistical theory of machine learning and artificial intelligence, We provide mathematical understanding of learning algorithms, thereby establishing black-box AI tools as formal statistical principles. Our research focuses on three aspects of data science in the present era of big data analysis.
+ Data complexity: Many applications involve complex data, such as relational information, texts etc., that often lack natural Euclidean structure. Hence, learning from such data require non-parametric approaches or representation learning.</description>
     </item>
     
     <item>
@@ -36,7 +37,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/group/members/</guid>
-      <description> Debarghya Ghoshdastidar (Postdoc; Team Leader) Leena Chennuru Vankadara (PhD Student)  </description>
+      <description> Debarghya Ghoshdastidar (Professor) Claudia Link (Administration) Leena Vankadara (PhD student, jointly with Ulrike von Luxburg)  </description>
     </item>
     
     <item>

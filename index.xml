@@ -11,26 +11,34 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>TML Network Analysis Team</title>
+      <title>Theoretical Foundations of AI</title>
       <link>/group/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>/group/hero/</guid>
-      <description>&lt;p&gt;Theory of Machine Learning (TML) Group &lt;br&gt;
-Department of Computer Science &lt;br&gt;
-University of Tübingen&lt;/p&gt;
+      <description>&lt;p&gt;TUM Department of Informatics &lt;br&gt;
+Technical University of Munich&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Research Focus</title>
+      <title>Focus</title>
       <link>/group/focus/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/group/focus/</guid>
-      <description>&lt;p&gt;The Network Analysis Team primarily works on the theory and applications of machine learning with networks.
-We develop network analysis tools for various applied problems ranging from computational neuroscience to production engineering.
-We also study the statistical theory of machine learning with networks.&lt;/p&gt;
+      <description>&lt;p&gt;The research group works on the statistical theory of machine learning and artificial intelligence,
+We provide mathematical understanding of learning algorithms, thereby establishing black-box AI tools as formal statistical principles. Our research focuses on three aspects of data science in the present era of big data analysis.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Data complexity&lt;/strong&gt;: Many applications involve complex data, such as relational information, texts etc., that often lack natural Euclidean structure. Hence, learning from such data require non-parametric approaches or representation learning.
+We work with networks and ordinal data, and are continuously exploring applications with other complex unstructured data.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Statistical guarantee&lt;/strong&gt;: The ubiquity of non-standard learning problems has led to a demand for new paradigms in learning theory to analyse the performance of related learning algorithms.
+We provide theoretical foundations for analysing algorithms in non-standard machine learning problems. These range from statistical performance guarantees to information theoretic limits of learning.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Computational cost&lt;/strong&gt;: The question of statistical performance is inherently tied with the computational budget, which has become important with the challenge of efficiently learning from massive volumes of complex data. We study the trade-off between efficiency and accuracy, and develop efficient machine learning algorithm based on sound statistical principles.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -41,8 +49,9 @@ We also study the statistical theory of machine learning with networks.&lt;/p&gt
       
       <guid>/group/members/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../#about&#34;&gt;Debarghya Ghoshdastidar&lt;/a&gt; (Postdoc; Team Leader)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.tml.cs.uni-tuebingen.de/team/leena_chennuru/index.php&#34; target=&#34;_blank&#34;&gt;Leena Chennuru Vankadara&lt;/a&gt; (PhD Student)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../#about&#34;&gt;Debarghya Ghoshdastidar&lt;/a&gt; (Professor)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www7.in.tum.de/people/detail/index.php?id=people.detail&amp;amp;arg=142&#34; target=&#34;_blank&#34;&gt;Claudia Link&lt;/a&gt; (Administration)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.tml.cs.uni-tuebingen.de/team/leena_chennuru/index.php&#34; target=&#34;_blank&#34;&gt;Leena Vankadara&lt;/a&gt;  (PhD student, jointly with &lt;a href=&#34;http://www.tml.cs.uni-tuebingen.de/team/luxburg/index.php&#34; target=&#34;_blank&#34;&gt;Ulrike von Luxburg&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
