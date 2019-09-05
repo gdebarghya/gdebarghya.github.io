@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine learning for ordinal data</title>
+      <link>/project/ordinal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ordinal/</guid>
+      <description>The problem of learning from ordinal or comparison based information has its roots in psychology, and has gained importance with the popularity of crowdsourcing approaches. In a comparison based framework, one is given a set of items, but has no access to any Euclidean representation or any pairwise similarity / distance information. The only available information are binary responses to questions of the form: Are items A and B most similar than items C and D?</description>
+    </item>
     
     <item>
       <title>Hypothesis Testing for Networks</title>

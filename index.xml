@@ -57,6 +57,15 @@ We also study the statistical theory of machine learning with networks.&lt;/p&gt
     </item>
     
     <item>
+      <title>Foundations of comparison-based hierarchical clustering</title>
+      <link>/publication/ghoshdastidar-neurips-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ghoshdastidar-neurips-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Two-sample hypothesis testing for inhomogeneous random graphs</title>
       <link>/publication/ghoshdastidar-aos-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
@@ -121,6 +130,16 @@ We also study the statistical theory of machine learning with networks.&lt;/p&gt
     </item>
     
     <item>
+      <title>Machine learning for ordinal data</title>
+      <link>/project/ordinal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ordinal/</guid>
+      <description>&lt;p&gt;The problem of learning from ordinal or comparison based information has its roots in psychology, and has gained importance with the popularity of crowdsourcing approaches. In a comparison based framework, one is given a set of items, but has no access to any Euclidean representation or any pairwise similarity / distance information. The only available information are binary responses to questions of the form: Are items &lt;em&gt;A&lt;/em&gt; and &lt;em&gt;B&lt;/em&gt; most similar than items &lt;em&gt;C&lt;/em&gt; and &lt;em&gt;D&lt;/em&gt;? The significance of ordinal data lies in the fact that humans are better at providing preferences instead of stating absolute values, but its usefulness goes beyond this psychological phenomenon and ordinal data such as k-nearest neighbours are versatile tools in data engineering. With the increasing scope of crowdsourcing, it has become important to extend classical machine learning algorithms for classification, clustering etc. to the ordinal setting. Statistical theory of learning from ordinal data is in its early stages, and the project provides several foundational results in this setting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mixture modelling with compact support distributions for unsupervised learning</title>
       <link>/publication/dukkipati-ijcnn-2016/</link>
       <pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate>
@@ -139,24 +158,6 @@ We also study the statistical theory of machine learning with networks.&lt;/p&gt
 
 &lt;p&gt;&lt;strong&gt;Codes are available &lt;a href=&#34;https://github.com/gdebarghya/Network-TwoSampleTesting&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Learning with Jensen-Tsallis kernels</title>
-      <link>/publication/ghoshdastidar-tnnls-2016/</link>
-      <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ghoshdastidar-tnnls-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coloring random non-uniform bipartite hypergraphs</title>
-      <link>/publication/ghoshdastidar-arxiv-00763/</link>
-      <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ghoshdastidar-arxiv-00763/</guid>
-      <description></description>
     </item>
     
   </channel>
