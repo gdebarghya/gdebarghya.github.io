@@ -66,6 +66,71 @@ We provide theoretical foundations for analysing algorithms in non-standard mach
     </item>
     
     <item>
+      <title>Research opportunities</title>
+      <link>/group/jobs/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/group/jobs/</guid>
+      <description>
+
+&lt;h2 id=&#34;open-positions&#34;&gt;Open positions&lt;/h2&gt;
+
+&lt;h3 id=&#34;full-time-phd-student&#34;&gt;Full-time PhD student&lt;/h3&gt;
+
+&lt;p&gt;We are looking for a PhD student, who is eager to work on the theoretical aspects of machine learning. The research would be related to one of the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Theory of deep learning (potentially Graph Neural Networks)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Communities and hierarchies in large random networks&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Hypothesis testing and inference for high-dimensional data&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The position is a full time position on the German pay scale E13 (100%).
+The initial contract would be for 3 years with potential extension. A successful candidate should have a masters degree in computer science, mathematics  or related areas. The position can start immediately.  See below for the application procedure.&lt;/p&gt;
+
+&lt;h3 id=&#34;internship&#34;&gt;Internship&lt;/h3&gt;
+
+&lt;p&gt;We have an open 3 month internship in our group. The project is about &lt;em&gt;similarity measures between graphs&lt;/em&gt;. The funding only covers the internship, and hence, it is suitable for students in Munich or T&amp;uuml;bingen.&lt;/p&gt;
+
+&lt;h3 id=&#34;other-funding-opportunities&#34;&gt;Other funding opportunities&lt;/h3&gt;
+
+&lt;p&gt;We are always looking for people interested in working on machine learning and its theory. If there no advertised openings, you may still join our group with &lt;a href=&#34;https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/&#34; target=&#34;_blank&#34;&gt;others scholarships&lt;/a&gt;. Please follow the application procedure for PhD and mention the scholarship that you wish to apply.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-apply&#34;&gt;How to apply?&lt;/h2&gt;
+
+&lt;h3 id=&#34;master-bachelor-thesis&#34;&gt;Master / bachelor thesis&lt;/h3&gt;
+
+&lt;p&gt;For students in TUM, send me an email if you are interested in writing your thesis on machine learning or learning theory. Please include details of your study program, department etc.&lt;/p&gt;
+
+&lt;p&gt;For others who want to write their thesis with our group, you need to have a supervisor in your host institute. If you are applying from outside Germany, please follow the application procedure for PhD applicants.&lt;/p&gt;
+
+&lt;h3 id=&#34;phd-postdocs-internships&#34;&gt;PhD, postdocs, internships&lt;/h3&gt;
+
+&lt;p&gt;Please send the following documents by email to Prof. Ghoshdastidar. We cannot respond to emails that do not contain all documents listed below.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Single PDF file containing following details&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Letter explaining why you want to join our group (max 2 pages)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Curriculum vitae, including list of publications (if applicable)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Contact details of two referees (link to homepage, email address). Please do not attach their reference letters to your application.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Certificates of master and bachelor degrees, school leaving examination, and all transcript of records.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A second PDF file containing one of your publications or latest thesis&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If your application interests us, we will contact you within three weeks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Foundations of comparison-based hierarchical clustering</title>
       <link>/publication/ghoshdastidar-neurips-2019/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
@@ -155,18 +220,6 @@ We provide theoretical foundations for analysing algorithms in non-standard mach
       
       <guid>/publication/dukkipati-ijcnn-2016/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Hypothesis Testing for Networks</title>
-      <link>/project/network-twosampletesting/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/network-twosampletesting/</guid>
-      <description>&lt;p&gt;We study the problem of testing whether two large graphs are generated from the same model. This problem lies behind the question of whether brain network of Alzheimer patients differ from those of healthy individuals. On the applied end, we proposed new two-sample tests to compare graphs / graph populations. Our theory resolved a fundamental question – &lt;em&gt;when can we test large networks without access to multiple independent samples?&lt;/em&gt; We used statistical minimax theory to show that solvability of a testing problem with limited data depends crucially on the hypotheses under consideration. We found that some classical approaches to testing can fail in this setup, and hence, one should be careful before relying on the test conclusion in this setup.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Codes are available &lt;a href=&#34;https://github.com/gdebarghya/Network-TwoSampleTesting&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

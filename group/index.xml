@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Group on Debarghya Ghoshdastidar</title>
+    <title>Research Group on Debarghya Ghoshdastidar</title>
     <link>/group/</link>
-    <description>Recent content in Group on Debarghya Ghoshdastidar</description>
+    <description>Recent content in Research Group on Debarghya Ghoshdastidar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -47,6 +47,19 @@
       
       <guid>/group/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Research opportunities</title>
+      <link>/group/jobs/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/group/jobs/</guid>
+      <description>Open positions Full-time PhD student We are looking for a PhD student, who is eager to work on the theoretical aspects of machine learning. The research would be related to one of the following topics:
+ Theory of deep learning (potentially Graph Neural Networks)
+ Communities and hierarchies in large random networks
+ Hypothesis testing and inference for high-dimensional data
+  The position is a full time position on the German pay scale E13 (100%).</description>
     </item>
     
   </channel>
